@@ -1,6 +1,7 @@
 var images = document.getElementsByTagName("img");
 var imgUrl = "";
-var urlPrefix = "https://web.archive.org/web/00000000000000/";
+// var urlPrefix = "https://web.archive.org/web/00000000000000/";
+var urlPrefix = "https://web.archive.org/web/99999999999999/";
 var i = 0;
 
 for(i=0;i<images.length;i++){
